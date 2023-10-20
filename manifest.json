@@ -3,22 +3,33 @@
     "short_name": "barcotech_event_full",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#hexcode",
+    "theme_color": "#hexcode",
     "description": "Web Application dedicated to Barcotech Halloween Event",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "/assets/pumpkin_128.png",
-            "sizes": "128x128",
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "assets/pumpkin_512.png",
+            "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
-        
     ]
 }
