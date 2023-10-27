@@ -6,7 +6,7 @@
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
     "description": "Web Application dedicated to Barcotech Halloween Event",
-    "orientation": "portrait-primary",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {

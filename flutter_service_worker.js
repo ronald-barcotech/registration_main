@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "12e8ed3fbcbf4c92df87886ee98f4244",
+const RESOURCES = {"app_config.yaml": "f17746c323136f035502d01af8b2338b",
+"assets/AssetManifest.bin": "12e8ed3fbcbf4c92df87886ee98f4244",
 "assets/AssetManifest.json": "9bf3888417d46164efca196b2dc3c4ea",
 "assets/assets/BarcotechBG.jpg": "cfedcf189edf397914bd63ec50a5529e",
 "assets/assets/Haloween-GIF.gif": "38c1869d2c0332fee0ee1cfe71be7f71",
@@ -30,10 +31,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "12e8ed3fbcbf4c92df87886ee98f4244
 "icons/Icon-512.png": "fd10cf450331150b3eef81220584b0f9",
 "icons/Icon-maskable-192.png": "7b64ab487d8465d71cae2f5e02947340",
 "icons/Icon-maskable-512.png": "fd10cf450331150b3eef81220584b0f9",
-"index.html": "48d074da19623fce234e1f9871e66d17",
-"/": "48d074da19623fce234e1f9871e66d17",
-"main.dart.js": "5386b030e840a7aa241e005ccca4e210",
-"manifest.json": "154ba4194ad31fd57d26a1b7f1622ff8",
+"index.html": "ab084d46c3f806a5ed975793d160420b",
+"/": "ab084d46c3f806a5ed975793d160420b",
+"main.dart.js": "8ca4b562cdcb61364a6f8aa7b251e314",
+"manifest.json": "9107bc840843f6730e2b49b43f694ed2",
 "print.js": "5cf31776d3a3c4c98ef602d9d24fc1d9",
 "version.json": "069db1b195262678c6d40915aac4ec28"};
 // The application shell files that are downloaded before a service worker can
